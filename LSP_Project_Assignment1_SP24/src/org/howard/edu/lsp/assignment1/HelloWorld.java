@@ -1,3 +1,6 @@
+/**
+*  Name: Uche Osuji
+*/
 package org.howard.edu.lsp.assignment1;
 
 public class HelloWorld {
